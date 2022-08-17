@@ -4,10 +4,6 @@ import "fmt"
 
 
 func main () {
-//   fmt.Println("  __      _"
-// "o'')}____//"
-// " `_/      )"
-// " (_(_/-(_/ ")
 fmt.Println("  __      _")
 fmt.Println("o'')}____//")
 fmt.Println(" `_/      )")
